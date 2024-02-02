@@ -1,0 +1,13 @@
+.bg{
+    background-image: url(../Images/Ellipse\ 48.png);
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    /* background-clip:border-box; */
+    background-size: contain;
+    background-clip:padding-box;
+    /* background-clip:content-box; */
+    background-size: 100% 50%;
+    
+    background-position-x: center;
+    
+}
